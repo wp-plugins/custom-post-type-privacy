@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Custom Post Type Sentry
+Plugin Name: Custom Post Type Privacy
 Plugin URI: http://www.ki-media.co.uk/wordpress/custom-post-type-privacy/
 Version: 0.1
 Description: Granular user and group access controls for all content.
