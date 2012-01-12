@@ -2,7 +2,7 @@
 /*
    Plugin Name: Custom Post Type Privacy
    Plugin URI: http://www.ki-media.co.uk/wordpress/custom-post-type-privacy/
-   Version: 0.1.1
+   Version: 0.2
    Description: Granular user and group access controls for all content.
    Author: Kev Price
    Author URI: http://www.ki-media.co.uk/
