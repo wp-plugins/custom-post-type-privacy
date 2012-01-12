@@ -27,3 +27,7 @@ To upgrade the plugin manually, follow these steps:
 1. Disable the plugin
 1. Upload the new version to /wp-content/plugins/
 1. Reactivate the plugin
+
+== change log ==
+
+0.1.1 fixed issue with saving posts (wpdb wasn't global)
