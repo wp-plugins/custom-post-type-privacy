@@ -3,7 +3,7 @@ Contributors: kimedia, peteholiday
 Tags: posts, pages,, custom post types, bbpress, users, security, restrict, restriction, groups, private
 Requires at least: 3.0
 Tested up to: 3.3.4
-Stable Tag 0.2
+Stable Tag 0.3
 
 Custom Post Type Privacy allows WordPress authors to grant access to users and groups of users across all posts, pages and custom post types.
 
@@ -32,3 +32,4 @@ To upgrade the plugin manually, follow these steps:
 == change log ==
 
 0.2 fixed issue with saving posts (wpdb wasn't global)
+0.3 new children should now inherit parent's privacy groups and users
